@@ -24,7 +24,7 @@ def load_silver():
                                   'PULocationID', 'DOLocationID', 'passenger_count'])
     return df.sample(100000, random_state=42)
 
-st.title("🚕 NYC Taxi Trip Analytics Dashboard")
+st.title("🚕 Pengembangan Sistem Analitik dan Prediksi Durasi Perjalanan Taksi New York City Berbasis Big Data dan Machine Learning")
 st.markdown("**Big Data Analytics | SDG 9 | Sains Data ITERA 2026**")
 st.markdown("---")
 
